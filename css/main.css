@@ -2624,7 +2624,7 @@ ul.breadcrumb li:last-child {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #ff3cf0;
+  background: #8e8eff;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
@@ -2634,7 +2634,6 @@ ul.breadcrumb li:last-child {
   width: 4px;
 }
 .links-of-blogroll-item {
-  display: inline-block;
   padding: 2px 10px;
 }
 .links-of-blogroll-item a,
